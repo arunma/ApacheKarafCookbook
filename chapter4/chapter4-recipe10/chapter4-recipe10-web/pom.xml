@@ -41,7 +41,7 @@
 		
 		<dependency>
 			<groupId>com.packt</groupId>
-			<artifactId>chapter5-recipe9-bundle</artifactId>
+			<artifactId>chapter4-recipe10-bundle</artifactId>
 			<version>${project.version}</version>
 			<scope>provided</scope>
 		</dependency>
@@ -86,7 +86,7 @@
 						</goals>
 						<configuration>
 							<versions>
-								<pax.cdi.osgi.version.clean>0.6.0</pax.cdi.osgi.version.clean>
+								<pax.cdi.osgi.version.clean>0.7.0</pax.cdi.osgi.version.clean>
 							</versions>
 						</configuration>
 					</execution>
